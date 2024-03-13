@@ -1,1 +1,1 @@
-# empty
+This Git, is a place, where you can see all my project thorugt my education at DTU
